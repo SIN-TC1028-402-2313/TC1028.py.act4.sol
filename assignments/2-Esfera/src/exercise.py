@@ -3,7 +3,7 @@ import math
 def main():
     #escribe tu código abajo de esta línea
     print("Este programa calcula el área y volumen de una esfera")
-    print("====================================================")
+    print("=====================================================")
 
     print("Dame el radio de la esfera: ")
     radio = float(input())
